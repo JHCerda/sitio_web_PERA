@@ -5,7 +5,7 @@
 }
 
 :root {
-    --rojo_ricale:#cc0530;
+    --rojo_ricale:#cc0303;
 }
 
 body {
@@ -50,22 +50,24 @@ li {
 }
 
 .menu_izquierdo {
-    width: 18vw;
-    height:50vh;
+    width: 20vw;
+    height:60vh;
     background-color:var(--rojo_ricale);
     color: white;
     font-size: 2em;
     padding: 1%;
+    
 }
 
 .list_izquierdo {
     display: block;
     font-size: 1em;
+    
 }
 
 .panel_derecho {
-    width: 82vw;
-    background-color: aqua;
+    width: 80vw;
+    background-color:cadetblue;
 }
 footer {
     padding:.5em;
