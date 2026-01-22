@@ -49,6 +49,19 @@ li {
 li:hover {
     color:blue
 }
+ button {
+    background-color: white;
+    border-radius: 8px;
+    padding: 2px 30px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+button:hover {
+     background-color:forestgreen;
+     color: white;
+
+}
 
 .logo_academy {
     width: 200px;
